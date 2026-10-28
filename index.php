@@ -10,11 +10,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Project/PHP/PHPProject.php to edi
     </head>
     <body>
         <?php
-        echo 'tercer cambio';
-        echo 'septimo cambio';
-        echo 'cuarto cambio';
-        echo 'quinto cambio';
-        echo 'sexto cambio';
+        echo 'octavo cambio';
         ?>
     </body>
 </html>
